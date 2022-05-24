@@ -1,7 +1,6 @@
 {
     "name": "VeezStreamBot",
     "description": "Telegram Bot for streaming Video & Music through the Group Calls feature.",
-    "repository": "https://github.com/ivaldenafiles/File-Sharing-Bot",
     "logo": "https://telegra.ph/file/1c41ded2dd871eb36bd7e.png",
     "keywords": [
         "mongo-db",
